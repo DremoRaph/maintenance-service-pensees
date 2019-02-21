@@ -19,7 +19,7 @@ public class App {
 		
 		PenseeDAO cachePenseeDAO = new PenseeDAO();
 		//cachePenseeDAO.listerPensees();
-		cachePenseeDAO.enregistrerPensee(new Pensee("",""));
+		cachePenseeDAO.enregistrerPensee(new Pensee("coucou","coucou"));
 		
 	}
 
